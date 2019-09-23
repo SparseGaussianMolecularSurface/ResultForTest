@@ -1,6 +1,6 @@
 This folder contains 4 subfolders:
 
-AreaAndVolume: one tools of calculating area and volume for OFF file.
+AreaAndVolume: one tool of calculating area and volume for OFF file.
 
 PLOTsurface:  one .m script for surface rendering.
 
