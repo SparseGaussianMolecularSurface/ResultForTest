@@ -1,0 +1,9 @@
+This folder contains 4 subfolders:
+
+PQR: PQR file for 10 molecules. 
+
+AreaAndVolume: one tools of calculating area and volume for OFF file.
+
+PLOTsurface:  one .m script for surface rendering.
+
+Result: this folder contains result files for paper (URL: "http://arxiv.org/abs/1909.09095")
