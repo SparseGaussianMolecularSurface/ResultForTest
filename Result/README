@@ -1,0 +1,32 @@
+This folder contains result for 10 molecules in the submitted paper.
+
+Each subfolder contains 2 subfolder: ERBF_INFO and OFF
+
+ERBF_INFO folder contains ellipsoid RBF information files:
+
+*_Weight.txt
+*_DecayRate.txt
+*_Center.txt
+*_Angle.txt
+
+For example:
+ADP_Weight.txt
+ADP_DecayRate.txt
+ADP_Center.txt
+ADP_Angle.txt
+
+OFF folder contains two subfolder about original folder and sparse folder.
+
+Original folder contains 4 OFF files for original surface.
+For example:
+ADP_Original_isovalue_1.off
+ADP_Original_isovalue_1.2.off
+ADP_Original_isovalue_1.7.off
+ADP_Original_isovalue_1.8.off
+
+Sparse folder contains 4 OFF files for Sparse surface.
+For example:
+ADP_Sparse_isovalue_1.off
+ADP_Sparse_isovalue_1.2.off
+ADP_Sparse_isovalue_1.7.off
+ADP_Sparse_isovalue_1.8.off
