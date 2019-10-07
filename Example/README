@@ -1,4 +1,4 @@
 Function: Sparse representation of Gaussian Molecular Surface.
 
 Run format
-	run Example.p with ADP.pqr in the command window of MATLAB.
+	run Example with ADP.pqr in the command window of MATLAB.
