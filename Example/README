@@ -1,5 +1,10 @@
 Function: Sparse representation of Gaussian Molecular Surface.
 
+Input: .pqr file
+Output: 
+	The information files of ellipsoid RBF.
+	The some surface image.
+
 Run format
 	run .p file (Example) with ADP.pqr in the command window of MATLAB.
 For example
