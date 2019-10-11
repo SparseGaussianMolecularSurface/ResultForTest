@@ -8,4 +8,4 @@ Output:
 Run format
 	run .p file (Example) with ADP.pqr in the command window of MATLAB.
 For example
-	Example
+	Example ADP.pqr
